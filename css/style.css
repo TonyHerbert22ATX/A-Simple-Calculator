@@ -1,0 +1,188 @@
+/* Box Model Hack */
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+/* Clear fix hack */
+.clearfix:after {
+  content: ".";
+  display: block;
+  clear: both;
+  visibility: hidden;
+  line-height: 0;
+  height: 0;
+}
+
+.clear {
+  clear: both;
+}
+
+/******************************************
+/* BASE STYLES
+/*******************************************/
+html {
+  font-size: 62.5%;
+}
+body {
+  background: rgba(248, 80, 50, 1);
+  background: -moz-radial-gradient(
+    center,
+    ellipse cover,
+    rgba(248, 80, 50, 1) 19%,
+    rgba(241, 111, 92, 1) 35%,
+    rgba(209, 85, 69, 1) 69%,
+    rgba(240, 47, 23, 1) 93%,
+    rgba(231, 56, 39, 1) 100%
+  );
+  background: -webkit-gradient(
+    radial,
+    center center,
+    0px,
+    center center,
+    100%,
+    color-stop(19%, rgba(248, 80, 50, 1)),
+    color-stop(35%, rgba(241, 111, 92, 1)),
+    color-stop(69%, rgba(209, 85, 69, 1)),
+    color-stop(93%, rgba(240, 47, 23, 1)),
+    color-stop(100%, rgba(231, 56, 39, 1))
+  );
+  background: -webkit-radial-gradient(
+    center,
+    ellipse cover,
+    rgba(248, 80, 50, 1) 19%,
+    rgba(241, 111, 92, 1) 35%,
+    rgba(209, 85, 69, 1) 69%,
+    rgba(240, 47, 23, 1) 93%,
+    rgba(231, 56, 39, 1) 100%
+  );
+  background: -o-radial-gradient(
+    center,
+    ellipse cover,
+    rgba(248, 80, 50, 1) 19%,
+    rgba(241, 111, 92, 1) 35%,
+    rgba(209, 85, 69, 1) 69%,
+    rgba(240, 47, 23, 1) 93%,
+    rgba(231, 56, 39, 1) 100%
+  );
+  background: -ms-radial-gradient(
+    center,
+    ellipse cover,
+    rgba(248, 80, 50, 1) 19%,
+    rgba(241, 111, 92, 1) 35%,
+    rgba(209, 85, 69, 1) 69%,
+    rgba(240, 47, 23, 1) 93%,
+    rgba(231, 56, 39, 1) 100%
+  );
+  background: radial-gradient(
+    ellipse at center,
+    rgba(248, 80, 50, 1) 19%,
+    rgba(241, 111, 92, 1) 35%,
+    rgba(209, 85, 69, 1) 69%,
+    rgba(240, 47, 23, 1) 93%,
+    rgba(231, 56, 39, 1) 100%
+  );
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f85032', endColorstr='#e73827', GradientType=1 );
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+
+main {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  height: 100%;
+  width: 100vw;
+}
+
+main main {
+  background: black;
+  width: 50rem;
+  height: 65rem;
+  border-radius: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  box-shadow: 13px 14px 7px 2px rgba(0, 0, 0, 0.75);
+}
+
+.answer {
+  margin-top: 8rem;
+  background: white;
+  height: 9rem;
+  width: 45rem;
+  display: block;
+  color: rgb(45, 44, 44);
+  font-size: 8rem;
+  text-align: center;
+  font-weight: bold;
+  font-family: "Roboto", sans-serif;
+  text-align: right;
+  padding-right: 2.5rem;
+  border: 1px solid #000;
+}
+
+.bottom {
+  height: 40rem;
+  width: 50rem;
+  display: flex;
+  flex-flow: row wrap;
+  align-content: space-evenly;
+  margin-left: 3.5rem;
+}
+
+.circle {
+  background: white;
+  width: 8rem;
+  height: 8rem;
+  border-radius: 50%;
+  margin: 2.5rem 0 0rem 3.2rem;
+  color: black;
+  font-size: 6rem;
+  font-weight: bold;
+  font-family: "Roboto", sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #000;
+}
+.ac {
+  background: red;
+  color: white;
+  font-size: 4.5rem;
+  border: 1px solid #000;
+}
+
+#equal {
+  background: white;
+  height: 6rem;
+  width: 42rem;
+  border-radius: 50px;
+  color: black;
+  font-size: 6rem;
+  font-weight: bold;
+  font-family: "Roboto", sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 4rem 0;
+  border: 1px solid #000;
+}
+
+.circle:hover,
+#equal:hover {
+  background: grey;
+}
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
+
+h1 {
+  text-align: center;
+  padding: 5% 0 3% 0;
+  font-size: 3.5rem;
+}
