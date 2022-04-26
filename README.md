@@ -1,6 +1,7 @@
 <h1 align="center">Simple Calculator | <a href="https://tonyherbert22atx.github.io/Simple-Calculator/">Visit here!</a></h1>
 <div align="center">
-	  <video src=https://user-images.githubusercontent.com/100800911/165375068-c95bf774-35f7-43e1-bc41-9ee73ea11164.mp4/>
+	 <a href="/gif/-_SqivG" title=""><img src="https://i.makeagif.com/media/4-26-2022/_SqivG.gif" alt=""></a><div style="font-size:11px;">make <a href="/" title="make a gif">crypto GIFs</a> like this at MakeaGif</div>
+
 
 </div>
 
