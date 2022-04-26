@@ -1,4 +1,4 @@
-<h1 align="center">Simple Calculator | <a href="https://tonyherbert22atx.github.io/Simple-Calculator/">Visit here!</a></h1>
+<h1 align="center">Simple Calculator | <a href="https://tonyherbert22atx.github.io/A-Simple-Calculator/">Visit here!</a></h1>
 <div align="center">
 	 <a href="/gif/-_SqivG" title=""><img src="https://i.makeagif.com/media/4-26-2022/_SqivG.gif" alt=""></a><div style="font-size:11px;">
 
