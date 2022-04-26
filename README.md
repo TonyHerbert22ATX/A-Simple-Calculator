@@ -15,11 +15,9 @@ This was my first attempt at a simple calculator, I still was not able to implem
 <h2 align="center">Techs used:</h2>
 <br>
 <div align="center">
-	<img src="https://github.com/Ethodeus/readme-assets/blob/master/GitHub%20Profile/Tech%20Skills/js-square.svg" height="50px">
-	&nbsp&nbsp&nbsp
-	<img src="https://github.com/Ethodeus/readme-assets/blob/master/GitHub%20Profile/Tech%20Skills/css3-alt.svg" height="50px">
-	&nbsp&nbsp&nbsp
-	<img src="https://github.com/Ethodeus/readme-assets/blob/master/GitHub%20Profile/Tech%20Skills/html5.svg" height="50px">
+	<img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=html"/>
+	<img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=css"/>
+	<img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/>
 </div>
 
 ##
