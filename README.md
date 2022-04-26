@@ -3,6 +3,8 @@
   <a href='https://tonyherbert22atx.github.io/Simple-Calculator/'>
 	  <img src=https://imgur.com/a/fefSFOj />
   </a>
+	https://user-images.githubusercontent.com/100800911/165375068-c95bf774-35f7-43e1-bc41-9ee73ea11164.mp4
+
 </div>
 
 <h3 align="center">Simple calculator website as my first attempt to work with OOP.</h3>
