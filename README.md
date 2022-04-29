@@ -1,7 +1,8 @@
 <h1 align="center">Simple Calculator | <a href="https://tonyherbert22atx.github.io/A-Simple-Calculator/">Visit here!</a></h1>
-<div align="center">
-	 ![an animation of a game of tic tac toe](calc.gif)
 
+<div align="center">
+
+![an animation of using the calculator](calc.gif)
 
 </div>
 
