@@ -1,4 +1,4 @@
-<h1 align="center">Simple Calculator | <a href="https://tonyherbert22atx.github.io/Simple-Calculator/">Visit here!</a></h1>
+<h1 align="center">Simple Calculator | <a href="https://tonyherbert22atx.github.io/A-Simple-Calculator/">Visit here!</a></h1>
 <div align="center">
 	 <a href="/gif/-_SqivG" title=""><img src="https://i.makeagif.com/media/4-26-2022/_SqivG.gif" alt=""></a><div style="font-size:11px;">
 
@@ -15,11 +15,9 @@ This was my first attempt at a simple calculator, I still was not able to implem
 <h2 align="center">Techs used:</h2>
 <br>
 <div align="center">
-	<img src="https://github.com/Ethodeus/readme-assets/blob/master/GitHub%20Profile/Tech%20Skills/js-square.svg" height="50px">
-	&nbsp&nbsp&nbsp
-	<img src="https://github.com/Ethodeus/readme-assets/blob/master/GitHub%20Profile/Tech%20Skills/css3-alt.svg" height="50px">
-	&nbsp&nbsp&nbsp
-	<img src="https://github.com/Ethodeus/readme-assets/blob/master/GitHub%20Profile/Tech%20Skills/html5.svg" height="50px">
+    <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/>
 </div>
 
 ##
